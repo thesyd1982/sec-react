@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.react-icons {
+    vertical-align: middle;
+}
